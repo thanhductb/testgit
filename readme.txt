@@ -1,2 +1,1 @@
-f2 Edit
-f1 Edit content
+f2 clean content
